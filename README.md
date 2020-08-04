@@ -1,4 +1,4 @@
-# Olá! Eu sou Guilherme Sennes! 👋🏽 👨🏽‍💻
+# Olá, eu sou Guilherme Sennes! 👋🏽 👨🏽‍💻
 
 <img width="auto" src="https://media-exp1.licdn.com/dms/image/C4E16AQHDMicuvRPZig/profile-displaybackgroundimage-shrink_350_1400/0?e=1602115200&v=beta&t=IyS4heK_9uuEaqGMjgdwrBpuIIR5MRAe1O3Gjgb0SEk">
 
