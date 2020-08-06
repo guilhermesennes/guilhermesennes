@@ -19,5 +19,5 @@ Fui aluno do Bootcamp *Launchbase* da **RocketSeat**, que abordou inicialmente o
 
 # Vamos conversar sobre o seu projeto! 👨🏽‍💻
 - Me envie um <a href="mailto:guilherme.sennes@yahoo.com.br">Email</a>. 📧
-- Ou me chame no <a href="https://wa.me/11987117762?text=Ol%C3%A1!%20%0APreciso%20de%20um%20Desenvolvedor">Whatsapp.</a> 📲
+- Ou me chame no <a href="https://wa.me/+5511987117762?text=Ol%C3%A1!%20%0APreciso%20de%20um%20Desenvolvedor">Whatsapp.</a> 📲
 
